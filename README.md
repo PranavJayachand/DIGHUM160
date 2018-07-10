@@ -21,4 +21,4 @@ pip install matplotlib
 pip install pandas
 pip install sklearn
 
-(remember you can pip install packages inside of a notebook using **`pip install package_name`**)
+Remember you can pip install packages inside of a notebook using **`pip install package_name`**
