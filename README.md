@@ -16,8 +16,6 @@ Tom van Nuenen, PhD
 ### Files
 - **.gitignore**  A file for ignoring changes to this repository
 
-- **1-1setup.pdf**  Read this first! 
-
 - **README.md**  Contains the text on this page. 
 
 - **requirements.txt**  Python libraries that binder should use.
