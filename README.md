@@ -21,6 +21,6 @@ Tom van Nuenen, PhD
 - **requirements.txt**  Python libraries that binder should use.
 
 ### DataHub
-Are you having trouble installing Python, importing data, or otherwise running the notebooks? Click this badge to open our notebooks in Berkeley DataHub - no local installations necessary! [![Binder](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Ftomvannuenen%2FDIGHUM160&urlpath=lab%2Ftree%2FDIGHUM160%2F)
+Are you having trouble installing Python, importing data, or otherwise running the notebooks? Click this badge to open our notebooks in [Berkeley DataHub](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Ftomvannuenen%2FDIGHUM160&urlpath=lab%2Ftree%2FDIGHUM160%2F) - no local installations necessary!
 
 Learn more about the Berkeley Digital Humanities Summer Minor: https://summerdigitalhumanities.berkeley.edu/
