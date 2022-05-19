@@ -2,8 +2,9 @@ Instructor:
 Tom van Nuenen, PhD  
 [UC Berkeley D-Lab](https://dlab.berkeley.edu/)
 
+![logo](Img/backdrop-color.jpeg)
 
-### Welcome! This is the GitHub repository for DIGHUM160. The structure is as follows:
+### Welcome! This is the GitHub repository for DIGHUM160 - Digital Hermeneutics. The structure is as follows:
 
 ### Directories
 
