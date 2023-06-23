@@ -48,17 +48,17 @@ Now that you have all the required software and materials, you need to run the c
 
 If you do not have Anaconda installed and the materials loaded on your workshop by the time it starts, we *strongly* recommend using the UC Berkeley DataHub to run the materials for these lessons. You can access the DataHub by clicking this button:
 
-[![DataHub](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Ftomvannuenen%2FDIGHUM160&urlpath=lab%2Ftree%2FDIGHUM160%2F)
+[![DataHub](https://img.shields.io/badge/launch-datahub-blue)](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Ftomvannuenen%2FDIGHUM160&urlpath=lab%2Ftree%2FDIGHUM160%2F)
 
 The DataHub downloads this repository, along with any necessary packages, and allows you to run the materials in a Jupyter notebook that is stored on UC Berkeley's servers. No installation is necessary from your end - you only need an internet browser and a CalNet ID to log in. By using the DataHub, you can save your work and come back to it at any time. When you want to return to your saved work, just go straight to [DataHub](https://datahub.berkeley.edu), sign in, and you click on the `DIGHUM160` folder.
 
 ## Directories & Files
 
-- **notebooks/**  Your Jupyter Notebooks, including accompanying video's on what is happening in them. You are expcted to swap out data with your own as soon as possible when using these.
+- **Notebooks/**  Your Jupyter Notebooks, including accompanying video's on what is happening in them. You are expcted to swap out data with your own as soon as possible when using these.
 
-- **data/**  The Data directory contains several example datasets we will work through.
+- **Data/**  The Data directory contains several example datasets we will work through.
 
-- **img/**  Has the images used throughout this repository.
+- **Img/**  Has the images used throughout this repository.
 
 - **.gitignore**  A file for ignoring changes to this repository
 
