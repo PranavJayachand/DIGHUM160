@@ -1,6 +1,6 @@
 # DIGHUM160: Digital Hermeneutics
 
-![logo](Img/backdrop-color.jpg)
+![logo](img/backdrop-color.jpg)
 
 [![DataHub](https://img.shields.io/badge/launch-datahub-blue)](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Ftomvannuenen%2FDIGHUM160&urlpath=lab%2Ftree%2FDIGHUM160%2F) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
@@ -57,11 +57,11 @@ The DataHub downloads this repository, along with any necessary packages, and al
 
 ## Directories & Files
 
-- **Notebooks/**  Your Jupyter Notebooks, including accompanying video's on what is happening in them. You are expcted to swap out data with your own as soon as possible when using these.
+- **notebooks/**  Your Jupyter Notebooks, including accompanying video's on what is happening in them. You are expcted to swap out data with your own as soon as possible when using these.
 
-- **Data/**  The Data directory contains several example datasets we will work through.
+- **data/**  The Data directory contains several example datasets we will work through.
 
-- **Img/**  Has the images used throughout this repository.
+- **img/**  Has the images used throughout this repository.
 
 - **.gitignore**  A file for ignoring changes to this repository
 
