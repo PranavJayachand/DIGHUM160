@@ -7,8 +7,7 @@
 This repository contains the materials for DIGHUM160.
 
 ## Course Summary
-This course confronts h
-ermeneutic philosophy with computational text analysis. Hermeneutics refers to a long-standing intellectual tradition in the humanities that focuses on the theory and methods of interpretation.
+This course confronts hermeneutic philosophy with computational text analysis. Hermeneutics refers to a long-standing intellectual tradition in the humanities that focuses on the theory and methods of interpretation.
 
 The course has two basic components. In the lectures and discussions, we will deal with leading hermeneutic philosophers focusing on issues such as dialogicality, perspective, reflexivity, and the scientific status of interpretation. These issues are relevant to the study of social media and discourse communities, and their particular interpretations of the world.
 
@@ -28,7 +27,11 @@ Anaconda is software that allows you to run Python and Jupyter notebooks on your
 * Click "Download Zip".
 * Extract this file to a folder on your computer where you can easily access it (we recommend Desktop).
 
-3. Optional: if you're familiar with `git`, you can instead clone this repository by opening a terminal and entering `git clone git@github.com:dlab-berkeley/Python-Intermediate-Pilot.git`.
+3. You can install the package dependencies using the following terminal command (after navigating to this folder):
+
+```bash
+pip install -r requirements.txt
+ ```
 
 ## Run the code
 
@@ -64,7 +67,7 @@ The DataHub downloads this repository, along with any necessary packages, and al
 
 - **README.md**  Contains the text on this page.
 
-- **requirements.txt**  Python libraries that binder should use.
+- **requirements.txt**  Python libraries needed to run this repo.
 
 ## DH Summer Minor
 
