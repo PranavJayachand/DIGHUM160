@@ -25,7 +25,7 @@ Anaconda is software that allows you to run Python and Jupyter notebooks on your
 
 * Click the green "Code" button in the top right of the repository information.
 * Click "Download Zip".
-* Extract this file to a folder on your computer where you can easily access it (we recommend Desktop).
+* Extract/Unzip this file to a folder on your computer where you can easily access it (we recommend Desktop). If you need help on how to do this: [Mac](https://support.apple.com/en-gb/guide/mac-help/mchlp2528/mac) / [Windows](https://support.microsoft.com/en-us/windows/zip-and-unzip-files-f6dde0a7-0fec-8294-e1d3-703ed85e7ebc).
 
 3. You can install the package dependencies using the following terminal command (after navigating to the DIGHUM160-main folder):
 
