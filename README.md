@@ -27,7 +27,7 @@ Anaconda is software that allows you to run Python and Jupyter notebooks on your
 * Click "Download Zip".
 * Extract this file to a folder on your computer where you can easily access it (we recommend Desktop).
 
-3. You can install the package dependencies using the following terminal command (after navigating to this folder):
+3. You can install the package dependencies using the following terminal command (after navigating to the DIGHUM160-main folder):
 
 ```bash
 pip install -r requirements.txt
