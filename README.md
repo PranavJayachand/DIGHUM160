@@ -4,7 +4,7 @@
 
 [![DataHub](https://img.shields.io/badge/launch-datahub-blue)](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Ftomvannuenen%2FDIGHUM160&urlpath=lab%2Ftree%2FDIGHUM160%2F) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-This repository contains the materials for DIGHUM160.
+This repository contains the Jupyter Notebooks for DIGHUM160: Critical Digital Humanities, at the [UC Berkeley Digital Humanities Summer Minor](https://summerdigitalhumanities.berkeley.edu/).
 
 ## Course Summary
 This course confronts hermeneutic philosophy with computational text analysis. Hermeneutics refers to a long-standing intellectual tradition in the humanities that focuses on the theory and methods of interpretation.
