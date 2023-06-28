@@ -15,7 +15,7 @@ The second half of the course is project-based and involves research in Python t
 
 ## Installation Instructions
 
-Before attending the workshop, you should install Python and Jupyter to your computer. If you need help, please submit a [consulting request](https://dlab.berkeley.edu/consulting/submit-consulting-request) with D-Lab prior to the start of the workshop.
+Before attending the workshop, you should install Python and Jupyter to your computer. If you need help, please make sure to come to the weekly seminar (see bCourses for more information).
 
 Anaconda is software that allows you to run Python and Jupyter notebooks on your computer. Installing Anaconda is the easiest way to make sure you have all the necessary software to run the materials for this workshop. Complete the following steps:
 
