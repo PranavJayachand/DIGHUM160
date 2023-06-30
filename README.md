@@ -15,9 +15,9 @@ The second half of the course is project-based and involves research in Python t
 
 ## Installation Instructions
 
-Before attending the workshop, you should install Python and Jupyter to your computer. If you need help, please make sure to come to the weekly seminar (see bCourses for more information).
+Before attending the workshop, you should install Python and Jupyter on your computer. If you need help, please make sure to come to the weekly seminar (see bCourses for more information).
 
-Anaconda is software that allows you to run Python and Jupyter notebooks on your computer. Installing Anaconda is the easiest way to make sure you have all the necessary software to run the materials for this workshop. Complete the following steps:
+Anaconda is software that allows you to run Python and Jupyter Notebooks on your computer. Installing Anaconda is the easiest way to make sure you have all the necessary software to run the materials for this workshop. Complete the following steps:
 
 1. [Download and install Anaconda (Python 3.9 distribution)](https://www.anaconda.com/products/individual). Click "Download" and then click 64-bit "Graphical Installer" for your current operating system.
 
@@ -27,7 +27,7 @@ Anaconda is software that allows you to run Python and Jupyter notebooks on your
 * Click "Download Zip".
 * Extract/Unzip this file to a folder on your computer where you can easily access it (we recommend Desktop). If you need help on how to do this: [Mac](https://support.apple.com/en-gb/guide/mac-help/mchlp2528/mac) / [Windows](https://support.microsoft.com/en-us/windows/zip-and-unzip-files-f6dde0a7-0fec-8294-e1d3-703ed85e7ebc).
 
-3. You can install the package dependencies using the following terminal command (after navigating to the DIGHUM160-main folder):
+3. You can install the package dependencies using the following terminal command (after navigating to the `DIGHUM160-main` folder):
 
 ```bash
 pip install -r requirements.txt
