@@ -9,9 +9,9 @@ This repository contains the Jupyter Notebooks for DIGHUM160: Critical Digital H
 ## Course Summary
 This course confronts hermeneutic philosophy with computational text analysis. Hermeneutics refers to a long-standing intellectual tradition in the humanities that focuses on the theory and methods of interpretation.
 
-The course has two basic components. In the lectures and discussions, we will deal with leading hermeneutic philosophers focusing on issues such as dialogicality, perspective, reflexivity, and the scientific status of interpretation. These issues are relevant to the study of social media and discourse communities, and their particular interpretations of the world.
+In the lectures and discussions, we will deal with leading hermeneutic philosophers focusing on issues such as dialogicality, perspective, reflexivity, and the scientific status of interpretation. These issues are relevant to the study of social media and discourse communities, and their particular interpretations of the world.
 
-The second half of the course is project-based and involves research in Python to analyze a Reddit community of your choosing. You are not expected to have prior programming knowledge, and you are not graded on your coding skills. However, this course does make use of Jupyter Notebooks including Python code, so some exposure to Python will be highly beneficial.
+The other half of the course is project-based and involves research in Python to analyze a Reddit community of your choosing. You are not expected to have prior programming knowledge, and you are not graded on your coding skills. However, this course does make use of Jupyter Notebooks including Python code, so some exposure to Python will be highly beneficial.
 
 ## Installation Instructions
 
