@@ -41,7 +41,7 @@ Now that you have all the required software and materials, you need to run the c
 
 2. Click the "Launch" button under "Jupyter Lab" and navigate through your file system to the `DIGHUM160` folder you downloaded above.
 
-3. Navigate to the "Notebooks" folder, and too "Week1".
+3. Navigate to the "Notebooks" folder, and to "Week1".
 
 4. Open the `Preprocessing_Lesson.ipynb` file to begin.
 
