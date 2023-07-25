@@ -11,7 +11,7 @@ spacytextblob
 praw
 bs4
 scipy
-sklearn
+scikit-learn
 gensim
 pyLDAvis
 bokeh
